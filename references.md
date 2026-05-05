@@ -18,6 +18,9 @@ title: References
 - **Running FCPP on MCU with Contiki**: <br/>
   L. Testa, G. Audrito, F. Damiani, G. Torta. _Aggregate Processes as Distributed Adaptive Services for the Industrial Internet of Things_. Pervasive and Mobile Computing, 2022.
   [10.1016/j.pmcj.2022.101658](https://doi.org/10.1016/j.pmcj.2022.101658).
+- **Tutorial on Distributed Runtime Verification with FCPP**: <br/>
+  G. Audrito, F. Damiani, G. Scarso, V. Stolz, G. Torta. _Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach_. Proceedings of FM 2026.
+  [10.1007/978-3-032-26220-2_26](https://doi.org/10.1007/978-3-032-26220-2_26).
 
 ## General aggregate programming (AP)
 
